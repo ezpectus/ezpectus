@@ -27,7 +27,6 @@
 📈 Open for: freelance work, backend-focused junior roles, and open-source collaboration
 
 📫 Reach me:
-- GitHub: https://github.com/ezpectus
 - LeetCode: https://leetcode.com/u/ezpectus/
 - HackerRank: https://www.hackerrank.com/profile/stepanenko_den21
 

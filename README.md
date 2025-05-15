@@ -6,6 +6,14 @@
 - A SaaS Finance Manager Platform (.NET Core, REST API, SQL, DI, SOLID)
 - A 2D action-platformer (Unity, C#) with procedural level generation, JSON-based save/load, and modular gameplay systems
 
+- 🧰 My skills and  tools:
+
+- C#, .NET Core, ASP.NET, Entity Framework,C++,Pyhton,Java, JS
+- PostgreSQL, SQL, REST API,MySQL,ASP .Net 
+- Unity, JSON, ScriptableObjects
+- Git, VS Code, Visual Studio
+- LeetCode, HackerRank <- where Im practicing
+
 🧠 Learning:
 - Advanced backend patterns (.NET 9, Microservices, PostgreSQL)
 - Frontend with React & TypeScript (for full-stack flexibility)

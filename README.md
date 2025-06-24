@@ -17,7 +17,7 @@
 🧠 Learning:
 - Advanced backend patterns (.NET 9, Microservices, PostgreSQL)
 - Frontend with React & TypeScript (for full-stack flexibility)
-- Algorithmic thinking (solved 350+ LeetCode problems)
+- Algorithmic thinking (solved 600+ LeetCode problems)
 
 🎯 What I value:
 - Writing clean, maintainable code

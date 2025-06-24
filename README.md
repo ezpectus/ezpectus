@@ -30,4 +30,4 @@
 - LeetCode: https://leetcode.com/u/ezpectus/
 - HackerRank: https://www.hackerrank.com/profile/stepanenko_den21
 
-⚡ Fun fact: I’m obsessed with precision — from Deagle shots in CS to RESTful API routes.
+

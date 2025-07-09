@@ -3,8 +3,15 @@
 🔧 Junior .NET Developer focused on clean architecture, scalable backend systems, and solving real-world problems through code.
 
 🚀 Currently building:
-- A SaaS Finance Manager Platform (.NET Core, REST API, SQL, DI, SOLID)
-- A 2D action-platformer (Unity, C#) with procedural level generation, JSON-based save/load, and modular gameplay systems
+- 🛒 **BookStore MVP** – an online bookstore system from scratch:
+  - PostgreSQL: Book, User, and Order tables with proper relations and migrations
+  - EF Core + Fluent API: models with constraints and validation logic
+  - ASP.NET Core API: RESTful CRUD controllers using SOLID principles and DI
+  - JWT Authentication: secure registration and login (coming soon)
+  - Microservices (future): Orders, Reviews, Auth via REST or RabbitMQ
+  - Frontend (later): Blazor or React for client-side UI
+    
+
 
 - 🧰 My skills and  tools:
 

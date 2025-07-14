@@ -38,3 +38,4 @@
 - HackerRank: https://www.hackerrank.com/profile/stepanenko_den21
   
 -LeetCode Solutions (https://github.com/ezpectus/LeetCode-solutions/tree/main) C# + C++(some)
+My LeetCode problem idea: (https://github.com/ezpectus/Insert-Cost-into-Binary-Tree)

@@ -2,14 +2,23 @@
 
 🔧 Junior .NET Developer focused on clean architecture, scalable backend systems, and solving real-world problems through code.
 
-🚀 Currently building:
-- 🛒 **BookStore MVP** – an online bookstore system from scratch:
-  - PostgreSQL: Book, User, and Order tables with proper relations and migrations
-  - EF Core + Fluent API: models with constraints and validation logic
-  - ASP.NET Core API: RESTful CRUD controllers using SOLID principles and DI
-  - JWT Authentication: secure registration and login (coming soon)
-  - Microservices (future): Orders, Reviews, Auth via REST or RabbitMQ
-  - Frontend (later): Blazor or React for client-side UI
+  Currently building:
+
+📋 Task Manager App – full-stack productivity tool for managing personal and team tasks:
+
+PostgreSQL: Tables for User, Project, Task, and Tag with proper relations, indexes, and migrations
+
+EF Core + Fluent API: Entity models with constraints, cascade rules, and validation logic
+
+ASP.NET Core API: RESTful CRUD controllers following SOLID principles and dependency injection
+
+JWT Authentication: Secure signup/login with role-based access control
+
+Task Features: Deadlines, priorities, statuses, and tag filtering
+
+Microservices (planned): Notifications, Analytics, and Auth separation via REST or RabbitMQ
+
+Frontend (later): Blazor or React with responsive UI and drag-and-drop task board
     
 
 
@@ -36,7 +45,10 @@
 📫 Reach me:
 - LeetCode: https://leetcode.com/u/ezpectus/
 - HackerRank: https://www.hackerrank.com/profile/stepanenko_den21
-  
--LeetCode Solutions (https://github.com/ezpectus/LeetCode-solutions/tree/main) C# + C++(some)
+- LeetCode Solutions (https://github.com/ezpectus/LeetCode-solutions/tree/main) C# + C++(some)
+- My LeetCode problem idea: (https://github.com/ezpectus/Insert-Cost-into-Binary-Tree)
+- Algorithm patterns: (https://github.com/ezpectus/Algorithm-patterns/tree/main)
 
--My LeetCode problem idea: (https://github.com/ezpectus/Insert-Cost-into-Binary-Tree)
+
+
+---

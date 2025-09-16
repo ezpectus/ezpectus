@@ -24,8 +24,8 @@ Frontend (later): Blazor or React with responsive UI and drag-and-drop task boar
 
 - 🧰 My skills and  tools:
 
-- C#, .NET Core, ASP.NET, Entity Framework,C++,Pyhton,Java, JS
-- PostgreSQL, SQL, REST API,MySQL,ASP .Net 
+- C#, .NET Core, ASP.NET, Entity Framework,C++,Python,Java, JS
+- PostgreSQL, SQL, REST API,MySQL,ASP .Net,Fluent API
 - Unity, JSON, ScriptableObjects
 - Git, VS Code, Visual Studio
 - LeetCode, HackerRank <- where Im practicing

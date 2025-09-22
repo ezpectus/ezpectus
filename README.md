@@ -34,6 +34,7 @@ Frontend (later): Blazor or React with responsive UI and drag-and-drop task boar
 - Advanced backend patterns (.NET 9, Microservices, PostgreSQL)
 - Frontend with React & TypeScript (for full-stack flexibility)
 - Algorithmic thinking (solved 1000+ LeetCode problems)
+- LeetCode **Top 18k rating** , **1441 elo** 
 
 🎯 What I value:
 - Writing clean, maintainable code

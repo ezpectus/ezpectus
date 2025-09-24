@@ -1,27 +1,22 @@
 # 👋 Hi, I’m Denys (@ezpectus)
 
-🔧 Junior .NET Developer focused on clean architecture, scalable backend systems, and solving real-world problems through code.
+### 🔧 Junior .NET Developer focused on clean architecture, scalable backend systems, and solving real-world problems through code.
 
-  Currently building:
+--- 
+  ## Currently building:
 
-📋 Task Manager App – full-stack productivity tool for managing personal and team tasks:
+## 📋 Task Manager App – full-stack productivity tool for managing personal and team tasks:
 
-PostgreSQL: Tables for User, Project, Task, and Tag with proper relations, indexes, and migrations
-
-EF Core + Fluent API: Entity models with constraints, cascade rules, and validation logic
-
-ASP.NET Core API: RESTful CRUD controllers following SOLID principles and dependency injection
-
-JWT Authentication: Secure signup/login with role-based access control
-
-Task Features: Deadlines, priorities, statuses, and tag filtering
-
-Microservices (planned): Notifications, Analytics, and Auth separation via REST or RabbitMQ
-
-Frontend (later): Blazor or React with responsive UI and drag-and-drop task board
-    
+- PostgreSQL: Tables for User, Project, Task, and Tag with proper relations, indexes, and migrations
+- EF Core + Fluent API: Entity models with constraints, cascade rules, and validation logic
+- ASP.NET Core API: RESTful CRUD controllers following SOLID principles and dependency injection
+- JWT Authentication: Secure signup/login with role-based access control
+- Task Features: Deadlines, priorities, statuses, and tag filtering
+- Microservices (planned): Notifications, Analytics, and Auth separation via REST or RabbitMQ
+- Frontend (later): Blazor or React with responsive UI and drag-and-drop task board
 
 
+---
 - 🧰 My skills and  tools:
 
 - C#, .NET Core, ASP.NET, Entity Framework,C++,Python,Java, JS
@@ -49,8 +44,8 @@ Frontend (later): Blazor or React with responsive UI and drag-and-drop task boar
 - CodeForces: https://codeforces.com/profile/ezpectus
 - LeetCode Solutions (https://github.com/ezpectus/LeetCode-solutions/tree/main) C# + C++(some)
 - CodeForces Solutions (https://github.com/ezpectus/CodeForces-Solutions_C-17/tree/main) C++17 
-- My LeetCode problem idea: (https://github.com/ezpectus/Insert-Cost-into-Binary-Tree)
 - Algorithm patterns: (https://github.com/ezpectus/Algorithm-patterns/tree/main)
+- My LeetCode problem idea: (https://github.com/ezpectus/Insert-Cost-into-Binary-Tree)
 
 
 

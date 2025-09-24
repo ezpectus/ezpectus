@@ -46,7 +46,9 @@ Frontend (later): Blazor or React with responsive UI and drag-and-drop task boar
 📫 Reach me:
 - LeetCode: https://leetcode.com/u/ezpectus/
 - HackerRank: https://www.hackerrank.com/profile/stepanenko_den21
+- CodeForces: https://codeforces.com/profile/ezpectus
 - LeetCode Solutions (https://github.com/ezpectus/LeetCode-solutions/tree/main) C# + C++(some)
+- CodeForces Solutions (https://github.com/ezpectus/CodeForces-Solutions_C-17/tree/main) C++17 
 - My LeetCode problem idea: (https://github.com/ezpectus/Insert-Cost-into-Binary-Tree)
 - Algorithm patterns: (https://github.com/ezpectus/Algorithm-patterns/tree/main)
 

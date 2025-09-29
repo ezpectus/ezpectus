@@ -5,7 +5,7 @@
 --- 
   ## Currently building:
 
-## 📋 Task Manager App – full-stack productivity tool for managing personal and team tasks:
+#### 📋 Task Manager App – full-stack productivity tool for managing personal and team tasks:
 
 - PostgreSQL: Tables for User, Project, Task, and Tag with proper relations, indexes, and migrations
 - EF Core + Fluent API: Entity models with constraints, cascade rules, and validation logic

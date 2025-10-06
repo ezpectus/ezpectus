@@ -1,40 +1,61 @@
 # 👋 Hi, I’m Denys (@ezpectus)
+---
 
-### 🔧 Junior .NET Developer focused on clean architecture, scalable backend systems, and solving real-world problems through code.
-
---- 
-  ## Currently building:
-
-#### 📋 Task Manager App – full-stack productivity tool for managing personal and team tasks:
-
-- PostgreSQL: Tables for User, Project, Task, and Tag with proper relations, indexes, and migrations
-- EF Core + Fluent API: Entity models with constraints, cascade rules, and validation logic
-- ASP.NET Core API: RESTful CRUD controllers following SOLID principles and dependency injection
-- JWT Authentication: Secure signup/login with role-based access control
-- Task Features: Deadlines, priorities, statuses, and tag filtering
-- Microservices (planned): Notifications, Analytics, and Auth separation via REST or RabbitMQ
-- Frontend (later): Blazor or React with responsive UI and drag-and-drop task board
-
+# 🔧 Junior .NET Developer  
+Focused on clean architecture, scalable backend systems, and solving real-world problems through code.  
 
 ---
-- 🧰 My skills and  tools:
 
-- C#, .NET Core, ASP.NET, Entity Framework,C++,Python,Java, JS
-- PostgreSQL, SQL, REST API,MySQL,ASP .Net,Fluent API
-- Unity, JSON, ScriptableObjects
-- Git, VS Code, Visual Studio
-- LeetCode, HackerRank <- where Im practicing
+## 🚀 Currently Building
+### 📋 Task Manager App – full-stack productivity tool  
+- **Stack:** C#, ASP.NET Core, EF Core, PostgreSQL  
+- **Database:** User, Project, Task, Tag (relations, indexes, migrations)  
+- **Backend:** RESTful CRUD controllers, SOLID principles, dependency injection  
+- **Auth:** JWT with role-based access control  
+- **Features:** Deadlines, priorities, statuses, tag filtering  
+- **Planned:** Microservices (Notifications, Analytics, Auth via REST/RabbitMQ)  
+- **Frontend (later):** Blazor or React (drag-and-drop task board)  
+- **Repo:** coming soon  
 
-🧠 Learning:
-- Advanced backend patterns (.NET 9, Microservices, PostgreSQL)
-- Frontend with React & TypeScript (for full-stack flexibility)
-- Algorithmic thinking (solved 1100+ LeetCode problems)
-- LeetCode **Top 16k rating** , **1441 elo** 
+---
 
-🎯 What I value:
-- Writing clean, maintainable code
-- Learning fast and teaching others (check out my open-source template!)
-- Building systems that actually help people
+## 🛠️ Skills & Tools
+- **Languages:** C#, C++, Python, Java, JavaScript  
+- **Frameworks:** .NET Core, ASP.NET, Entity Framework, Fluent API  
+- **Databases:** PostgreSQL, MySQL, SQL  
+- **Other:** Unity, JSON, ScriptableObjects  
+- **Dev Tools:** Git, VS Code, Visual Studio  
+- **Problem-Solving:** LeetCode, HackerRank, Codeforces  
+
+---
+
+## 🏆 Achievements
+- Solved **1100+ problems** on LeetCode  
+- **LeetCode:** Top 13k rating, 1441 ELO  
+- **Codeforces:** solved Div.1-level problems (~3500 difficulty)  
+- Built open-source repositories for solutions, patterns, and rare algorithms  
+
+---
+
+## 📚 Currently Learning
+- Advanced backend patterns (.NET 9, Microservices, PostgreSQL)  
+- Frontend with React & TypeScript  
+- Deepening algorithmic thinking + documenting patterns  
+
+---
+
+## 🎯 What I Value
+- Writing clean, maintainable code  
+- Learning fast & teaching others (open-source templates)  
+- Building systems that actually help people  
+
+---
+
+## 📈 Open For
+- Freelance work  
+- Backend-focused junior roles  
+- Open-source collaboration  
+
 
 📈 Open for: freelance work, backend-focused junior roles, and open-source collaboration
 

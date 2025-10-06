@@ -7,15 +7,15 @@ Focused on clean architecture, scalable backend systems, and solving real-world 
 ---
 
 ## 🚀 Currently Building
-### 📋 Task Manager App – full-stack productivity tool  
-- **Stack:** C#, ASP.NET Core, EF Core, PostgreSQL  
-- **Database:** User, Project, Task, Tag (relations, indexes, migrations)  
-- **Backend:** RESTful CRUD controllers, SOLID principles, dependency injection  
-- **Auth:** JWT with role-based access control  
-- **Features:** Deadlines, priorities, statuses, tag filtering  
-- **Planned:** Microservices (Notifications, Analytics, Auth via REST/RabbitMQ)  
-- **Frontend (later):** Blazor or React (drag-and-drop task board)  
-- **Repo:** coming soon  
+
+### 📋 Task Manager App – full-stack productivity tool for managing personal and team tasks:
+- **PostgreSQL**: Tables for User, Project, Task, and Tag with proper relations, indexes, and migrations  
+- **EF Core + Fluent API**: Entity models with constraints, cascade rules, and validation logic  
+- **ASP.NET Core API**: RESTful CRUD controllers following SOLID principles and dependency injection  
+- **JWT Authentication**: Secure signup/login with role-based access control  
+- **Task Features**: Deadlines, priorities, statuses, and tag filtering  
+- **Microservices (planned)**: Notifications, Analytics, and Auth separation via REST or RabbitMQ  
+- **Frontend (later)**: Blazor or React with responsive UI and drag-and-drop task board  
 
 ---
 
@@ -32,7 +32,7 @@ Focused on clean architecture, scalable backend systems, and solving real-world 
 ## 🏆 Achievements
 - Solved **1100+ problems** on LeetCode  
 - **LeetCode:** Top 13k rating, 1441 ELO  
-- **Codeforces:** solved Div.1-level problems (~3500 difficulty)  
+- **Codeforces:** Solved high-rated Div.1 Codeforces problems (~3500 rating difficulty)  
 - Built open-source repositories for solutions, patterns, and rare algorithms  
 
 ---
@@ -56,8 +56,6 @@ Focused on clean architecture, scalable backend systems, and solving real-world 
 - Backend-focused junior roles  
 - Open-source collaboration  
 
-
-📈 Open for: freelance work, backend-focused junior roles, and open-source collaboration
 
 📫 Reach me:
 - LeetCode: https://leetcode.com/u/ezpectus/

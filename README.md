@@ -61,7 +61,7 @@
 ---
 ### Profiles & Competitive Platforms
 
-- [LeetCode Profile](https://leetcode.com/u/ezpectus) – 1100+ problems solved, Top 13k rating  
+- [LeetCode Profile](https://leetcode.com/u/ezpectus) – 1200+ problems solved, Top 12k rating  
 - [HackerRank Profile](https://www.hackerrank.com/profile/stepanenko_den21) – verified problem-solving and backend skills  
 - [Codeforces Profile](https://codeforces.com/profile/ezpectus) – solved Div.1 problems (~3500 difficulty)
 

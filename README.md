@@ -1,25 +1,26 @@
-# Hi, I’m Denys (@ezpectus)  
-## Junior .NET Developer focused on clean architecture, scalable backend systems, and solving real-world problems through code.
+# Hi, I’m Denys (@ezpectus)
+
+### Junior .NET Developer focused on clean architecture, scalable backend systems, and solving real-world problems through code.
 
 ---
 
 ### Currently Building
 
-**Task Manager App** – full-stack productivity tool for managing personal and team tasks  
-- PostgreSQL: relational schema with indexes and migrations  
-- EF Core + Fluent API: entity models with constraints and validation  
-- ASP.NET Core API: RESTful CRUD with SOLID and DI  
-- JWT Authentication: secure login with role-based access  
-- Task Features: deadlines, priorities, statuses, tag filtering  
-- Microservices (planned): notifications, analytics, auth separation  
-- Frontend (planned): Blazor or React with drag-and-drop UI
+**Task Manager App** :
+- PostgreSQL: Tables for User, Project, Task, and Tag with proper relations, indexes, and migrations
+- EF Core + Fluent API: Entity models with constraints, cascade rules, and validation logic
+- ASP.NET Core API: RESTful CRUD controllers following SOLID principles and dependency injection
+- JWT Authentication: Secure signup/login with role-based access control
+- Task Features: Deadlines, priorities, statuses, and tag filtering
+- Microservices (planned): Notifications, Analytics, and Auth separation via REST or RabbitMQ
+- Frontend (later): Blazor or React with responsive UI and drag-and-drop task board
 
 ---
 
 ### Skills & Tools
 
-**Languages**: C#, C++, Python, Java, JavaScript  
-**Frameworks**: .NET Core, ASP.NET, Entity Framework  
+**Languages**: C#, C++, C,Python, Java, JavaScript  
+**Frameworks**: .NET Core, ASP.NET, Entity Framework, Fluent API 
 **Databases**: PostgreSQL, MySQL, SQL  
 **Other**: Unity, JSON, ScriptableObjects  
 **Dev Tools**: Git, VS Code, Visual Studio  
@@ -38,7 +39,7 @@
 
 ### Currently Learning
 
-- Advanced backend patterns (.NET 9, Microservices, PostgreSQL)  
+- Advanced backend patterns (.NET 9, Microservices, PostgreSQL),RabbitMQ
 - Frontend with React & TypeScript  
 - Deepening algorithmic thinking + documenting patterns
 
@@ -59,6 +60,7 @@
 - Open-source collaboration
 
 ---
+
 ### Profiles & Competitive Platforms
 
 - [LeetCode Profile](https://leetcode.com/u/ezpectus) – 1200+ problems solved, Top 12k rating  
@@ -74,6 +76,7 @@
 - [Algorithm Patterns](https://github.com/ezpectus/Algorithm-patterns/tree/main) – rare algorithms with architectural `.md` breakdowns, complexity analysis, and reusable modules  
 - [Insert Cost into Binary Tree](https://github.com/ezpectus/Insert-Cost-into-Binary-Tree) – original LeetCode-style problem idea with full implementation and test cases
 
+---
 
 ### Why I Build & Share
 
@@ -85,7 +88,7 @@ Every repo I publish is part of a long-term vision: to grow as a backend enginee
 
 I'm still learning — and I share as I go.
 
-
+---
 
 ### Contact & Collaboration
 
@@ -93,5 +96,6 @@ If you're building systems, solving hard problems, or exploring algorithmic arch
 I'm open to freelance work, backend roles, and open-source collaboration.
 
 Reach out via GitHub or any of the platforms above.
+
 
 ---

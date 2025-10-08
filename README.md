@@ -1,71 +1,97 @@
-# 👋 Hi, I’m Denys (@ezpectus)
----
-
-# 🔧 Junior .NET Developer  
-Focused on clean architecture, scalable backend systems, and solving real-world problems through code.  
+# Hi, I’m Denys (@ezpectus)  
+## Junior .NET Developer focused on clean architecture, scalable backend systems, and solving real-world problems through code.
 
 ---
 
-## 🚀 Currently Building
+### Currently Building
 
-### 📋 Task Manager App – full-stack productivity tool for managing personal and team tasks:
-- **PostgreSQL**: Tables for User, Project, Task, and Tag with proper relations, indexes, and migrations  
-- **EF Core + Fluent API**: Entity models with constraints, cascade rules, and validation logic  
-- **ASP.NET Core API**: RESTful CRUD controllers following SOLID principles and dependency injection  
-- **JWT Authentication**: Secure signup/login with role-based access control  
-- **Task Features**: Deadlines, priorities, statuses, and tag filtering  
-- **Microservices (planned)**: Notifications, Analytics, and Auth separation via REST or RabbitMQ  
-- **Frontend (later)**: Blazor or React with responsive UI and drag-and-drop task board  
-
----
-
-## 🛠️ Skills & Tools
-- **Languages:** C#, C++, Python, Java, JavaScript  
-- **Frameworks:** .NET Core, ASP.NET, Entity Framework, Fluent API  
-- **Databases:** PostgreSQL, MySQL, SQL  
-- **Other:** Unity, JSON, ScriptableObjects  
-- **Dev Tools:** Git, VS Code, Visual Studio  
-- **Problem-Solving:** LeetCode, HackerRank, Codeforces  
+**Task Manager App** – full-stack productivity tool for managing personal and team tasks  
+- PostgreSQL: relational schema with indexes and migrations  
+- EF Core + Fluent API: entity models with constraints and validation  
+- ASP.NET Core API: RESTful CRUD with SOLID and DI  
+- JWT Authentication: secure login with role-based access  
+- Task Features: deadlines, priorities, statuses, tag filtering  
+- Microservices (planned): notifications, analytics, auth separation  
+- Frontend (planned): Blazor or React with drag-and-drop UI
 
 ---
 
-## 🏆 Achievements
-- Solved **1100+ problems** on LeetCode  
-- **LeetCode:** Top 13k rating, 1441 ELO  
-- **Codeforces:** Solved high-rated Div.1 Codeforces problems (~3500 rating difficulty)  
-- Built open-source repositories for solutions, patterns, and rare algorithms  
+### Skills & Tools
+
+**Languages**: C#, C++, Python, Java, JavaScript  
+**Frameworks**: .NET Core, ASP.NET, Entity Framework  
+**Databases**: PostgreSQL, MySQL, SQL  
+**Other**: Unity, JSON, ScriptableObjects  
+**Dev Tools**: Git, VS Code, Visual Studio  
+**Problem-Solving**: LeetCode, HackerRank, Codeforces
 
 ---
 
-## 📚 Currently Learning
+### Achievements
+
+- Solved 1100+ problems on LeetCode  
+- LeetCode: Top 12k rating, 1441 ELO  
+- Codeforces: Solved Div.1 problems (~3500 difficulty)  
+- Built open-source repositories for solutions, patterns, and rare algorithms
+
+---
+
+### Currently Learning
+
 - Advanced backend patterns (.NET 9, Microservices, PostgreSQL)  
 - Frontend with React & TypeScript  
-- Deepening algorithmic thinking + documenting patterns  
+- Deepening algorithmic thinking + documenting patterns
 
 ---
 
-## 🎯 What I Value
+### What I Value
+
 - Writing clean, maintainable code  
-- Learning fast & teaching others (open-source templates)  
-- Building systems that actually help people  
+- Learning fast & teaching others  
+- Building systems that actually help people
 
 ---
 
-## 📈 Open For
+### Open For
+
 - Freelance work  
 - Backend-focused junior roles  
-- Open-source collaboration  
+- Open-source collaboration
+
+---
+### Profiles & Competitive Platforms
+
+- [LeetCode Profile](https://leetcode.com/u/ezpectus) – 1100+ problems solved, Top 13k rating  
+- [HackerRank Profile](https://www.hackerrank.com/profile/stepanenko_den21) – verified problem-solving and backend skills  
+- [Codeforces Profile](https://codeforces.com/profile/ezpectus) – solved Div.1 problems (~3500 difficulty)
+
+---
+
+### Open-Source Repositories
+
+- [LeetCode Solutions](https://github.com/ezpectus/LeetCode-solutions/tree/main) – C# and C++ implementations with clean structure  
+- [Codeforces Solutions](https://github.com/ezpectus/CodeForces-Solutions_C-17/tree/main) – C++17 archive of solved contests and problems  
+- [Algorithm Patterns](https://github.com/ezpectus/Algorithm-patterns/tree/main) – rare algorithms with architectural `.md` breakdowns, complexity analysis, and reusable modules  
+- [Insert Cost into Binary Tree](https://github.com/ezpectus/Insert-Cost-into-Binary-Tree) – original LeetCode-style problem idea with full implementation and test cases
 
 
-📫 Reach me:
-- LeetCode: https://leetcode.com/u/ezpectus/
-- HackerRank: https://www.hackerrank.com/profile/stepanenko_den21
-- CodeForces: https://codeforces.com/profile/ezpectus
-- LeetCode Solutions (https://github.com/ezpectus/LeetCode-solutions/tree/main) C# + C++(some)
-- CodeForces Solutions (https://github.com/ezpectus/CodeForces-Solutions_C-17/tree/main) C++17 
-- Algorithm patterns: (https://github.com/ezpectus/Algorithm-patterns/tree/main)
-- My LeetCode problem idea: (https://github.com/ezpectus/Insert-Cost-into-Binary-Tree)
+### Why I Build & Share
+
+I create open-source repositories not just to solve problems, but to build reusable knowledge systems.  
+My goal is to help others learn faster, think deeper, and write cleaner code — whether they're preparing for interviews, building backend systems, or exploring rare algorithms.
+
+I believe in architectural clarity, modular documentation, and sharing patterns that others can build on.  
+Every repo I publish is part of a long-term vision: to grow as a backend engineer, contribute to the developer community, and make technical knowledge more accessible.
+
+I'm still learning — and I share as I go.
 
 
+
+### Contact & Collaboration
+
+If you're building systems, solving hard problems, or exploring algorithmic architecture — let's connect.  
+I'm open to freelance work, backend roles, and open-source collaboration.
+
+Reach out via GitHub or any of the platforms above.
 
 ---

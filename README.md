@@ -21,7 +21,7 @@
 
 ### Achievements
 
-- Solved 2000+ problems on LeetCode  
+- Solved 2100+ problems on LeetCode  
 - LeetCode: Top 1k+ rating, 1441 ELO  
 - Codeforces: Solved Div.1 problems (~3500 difficulty)  
 - Built open-source repositories for solutions, patterns, and rare algorithms

@@ -10,12 +10,12 @@
 
 ### Skills & Tools
 
-**Languages**: C#, C++, C,Python, Java, JavaScript  
-**Frameworks**: .NET Core, ASP.NET, Entity Framework, Fluent API 
-**Databases**: PostgreSQL, MySQL, SQL  
-**Other**: Unity, JSON, ScriptableObjects  
-**Dev Tools**: Git, VS Code, Visual Studio  
-**Problem-Solving**: LeetCode, HackerRank, Codeforces
+- **Languages**: C#, C++, C,Python, Java, JavaScript  
+- **Frameworks**: .NET Core, ASP.NET, Entity Framework, Fluent API 
+- **Databases**: PostgreSQL, MySQL, SQL  
+- **Other**: Unity, JSON, ScriptableObjects  
+- **Dev Tools**: Git, VS Code, Visual Studio  
+- **Problem-Solving**: LeetCode, HackerRank, Codeforces
 
 ---
 

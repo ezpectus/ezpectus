@@ -1,6 +1,6 @@
 # Hi, I’m Denys (@ezpectus)
 
-### Junior .NET Developer focused on clean architecture, scalable backend systems, and solving real-world problems through code.
+### Backend .NET Developer focused on clean architecture, scalable backend systems, and solving real-world problems through code.
 
 ---
 
@@ -21,7 +21,7 @@
 
 ### Achievements
 
-- Solved 2100+ problems on LeetCode  
+- Solved 2200+ problems on LeetCode  
 - LeetCode: Top 1k+ rating, 1441 ELO  
 - Codeforces: Solved Div.1 problems (~3500 difficulty)  
 - Built open-source repositories for solutions, patterns, and rare algorithms
@@ -54,7 +54,7 @@
 
 ### Profiles & Competitive Platforms
 
-- [LeetCode Profile](https://leetcode.com/u/ezpectus) – 2000+ problems solved, Top 1k+ rating  
+- [LeetCode Profile](https://leetcode.com/u/ezpectus) – 2200+ problems solved, Top 1k+ rating  
 - [HackerRank Profile](https://www.hackerrank.com/profile/stepanenko_den21) – verified problem-solving and backend skills  
 - [Codeforces Profile](https://codeforces.com/profile/ezpectus) – solved Div.1 problems (~3500 difficulty)
 

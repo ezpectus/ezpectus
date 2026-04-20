@@ -21,8 +21,8 @@
 
 ### Achievements
 
-- Solved 2500+ problems solved  on LeetCode  
-- LeetCode:Top 700+- rating, 1441 ELO  
+- Solved 2600+ problems solved  on LeetCode  
+- LeetCode:Top 500+- rating, 1441 ELO  
 - Built open-source repositories for solutions, patterns, and rare algorithms
 
 ---

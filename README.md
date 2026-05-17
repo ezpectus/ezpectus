@@ -21,8 +21,8 @@
 
 ### Achievements
 
-- Solved 2700+ problems solved  on LeetCode  
-- LeetCode:Top 500+- rating, 1441 ELO  
+- Solved 2800+ problems solved  on LeetCode  
+- LeetCode:Top 400+- rating, 1441 ELO  
 - Built open-source repositories for solutions, patterns, and rare algorithms
 
 ---
@@ -53,7 +53,7 @@
 
 ### Profiles & Competitive Platforms
 
-- [LeetCode Profile](https://leetcode.com/u/ezpectus) – 2700+ problems solved, Top 500+- rating  
+- [LeetCode Profile](https://leetcode.com/u/ezpectus) – 2800+ problems solved, Top 400+- rating  
 - [HackerRank Profile](https://www.hackerrank.com/profile/stepanenko_den21) – verified problem-solving and backend skills  
 - [Codeforces Profile](https://codeforces.com/profile/ezpectus) 
 ---

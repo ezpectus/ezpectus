@@ -1,4 +1,4 @@
-# Hi, I'm Denys Stepanenko(@ezpectus) 👋
+# Hi, I'm Denys(@ezpectus) 👋
 
 ### Software Engineer | .NET | Full-Stack Development | Software Architecture | Open Source
 

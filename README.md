@@ -1,6 +1,6 @@
 # Hi, I'm Denys(@ezpectus) 👋
 
-### Software Engineer | .NET | Full-Stack Development | Software Architecture | Open Source
+### Software Engineer | .NET • PostgreSQL • System Design • Full-Stack Development • Open Source
 
 Software Engineer focused on backend systems, full-stack applications, software architecture, and building software that solves real-world problems.
 
@@ -12,7 +12,10 @@ Currently focused on SaaS development, backend engineering, distributed systems,
 
 ---
 
-## Currently Building: None
+## Currently Building:
+-  SaaS-oriented backend applications
+- Open-source engineering projects
+- Advanced PostgreSQL & distributed systems skills
 
 --- 
 
@@ -112,7 +115,7 @@ Algorithms and problem solving have been a major part of my engineering journey.
 
 ### Highlights
 
-* 2900+ solved problems on LeetCode
+* 2900+ algorithmic problems solved across LeetCode, HackerRank, and Codeforces
 * Active on HackerRank and Codeforces
 * Strong foundation in algorithms and data structures
 * Public repositories containing documented solutions and engineering notes
@@ -132,9 +135,9 @@ Besides building software, I actively document solutions, engineering patterns, 
 * [Codeforces Solutions](https://github.com/ezpectus/CodeForces-Solutions_C-17/tree/main) – C++17 archive of solved contests and problems  
 * [Algorithm Patterns](https://github.com/ezpectus/Algorithm-patterns/tree/main) – rare algorithms with architectural `.md` breakdowns, complexity analysis, and reusable modules  
 * [Insert Cost into Binary Tree](https://github.com/ezpectus/Insert-Cost-into-Binary-Tree) – original LeetCode-style problem idea with full implementation and test cases
-* [Observability Platform](https://github.com/ezpectus/AI-Log-Observability-MVP)
-* [VideoHub](https://github.com/ezpectus/VideoHub)
-* [Task Manager Platform](https://github.com/ezpectus/TaskManager_App.)
+* [Observability Platform](https://github.com/ezpectus/AI-Log-Observability-MVP) – distributed monitoring and AI-assisted remediation platform
+* [VideoHub](https://github.com/ezpectus/VideoHub) – full-stack video streaming platform inspired by modern content systems
+* [Task Manager Platform](https://github.com/ezpectus/TaskManager_App.) – architecture-focused ASP.NET Core backend project
 
 I believe knowledge becomes more valuable when it is shared, documented, and reusable.
 
@@ -142,7 +145,7 @@ I believe knowledge becomes more valuable when it is shared, documented, and reu
 
 ## 👨‍💼 Leadership Experience
 
-Experience coordinating development teams on academic and personal projects.
+Led development efforts in university and personal projects, helping coordinate architecture decisions, task planning, and implementation.
 
 ### Responsibilities
 
@@ -187,8 +190,5 @@ Experience coordinating development teams on academic and personal projects.
 ---
 
 ## Philosophy
-
-I believe good software comes from understanding problems deeply, keeping systems maintainable, and continuously improving engineering fundamentals.
-
-My goal is to build software that creates real value, scales effectively, and remains understandable months and years after it is written.
+I enjoy building software that remains maintainable, scalable, and valuable long after the first version is shipped.
 

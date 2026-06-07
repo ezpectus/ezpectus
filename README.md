@@ -29,57 +29,11 @@ Currently focused on SaaS development, backend engineering, distributed systems,
 
 ## 💻 Technology Stack
 
-### Programming Languages
-
-* C++ (9+ years)
-* JavaScript / TypeScript (6+ years)
-* C# (.NET) (3+ years)
-* Python (3+ years)
-* Java
-* C
-
-### Backend
-
-* ASP.NET Core
-* .NET 8 / .NET 9 / .NET 10
-* Entity Framework Core
-* Dapper
-* Node.js
-* Express.js
-* SignalR
-* REST APIs
-
-### Frontend
-
-* React
-* Next.js
-* TypeScript
-* TailwindCSS
-* Vite
-
-### Databases
-
-* PostgreSQL
-* MySQL
-* Redis
-* SQL
-
-### Architecture & Engineering
-
-* Clean Architecture
-* SOLID Principles
-* Layered Architecture
-* Repository Pattern
-* Service Pattern
-* Dependency Injection
-* System Design
-
-### Tools
-
-* Git
-* GitHub
-* Visual Studio
-* VS Code
+- **Languages:** C#, C++, JavaScript, TypeScript, Python, Java, C
+- **Backend:** ASP.NET Core, .NET, EF Core, Dapper, Node.js, Express.js, SignalR, REST APIs
+- **Frontend:** React, Next.js, TypeScript, TailwindCSS, Vite
+- **Databases:** PostgreSQL, MySQL, Redis
+- **Tools:** Git, GitHub, Visual Studio, VS Code
 
 ---
 

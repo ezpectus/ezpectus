@@ -115,7 +115,7 @@ Algorithms and problem solving have been a major part of my engineering journey.
 
 ### Highlights
 
-* 2900+ algorithmic problems solved across LeetCode, HackerRank, and Codeforces
+* 3000+ algorithmic problems solved across LeetCode, HackerRank, and Codeforces
 * Active on HackerRank and Codeforces
 * Strong foundation in algorithms and data structures
 * Public repositories containing documented solutions and engineering notes

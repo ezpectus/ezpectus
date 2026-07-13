@@ -88,24 +88,19 @@ Node.js • Express.js • TypeScript • Prisma ORM • PostgreSQL • JWT • 
 
 ### Task Manager Platform
 
-Backend-focused educational project built with ASP.NET Core and PostgreSQL.
-
-The project was created as a practical environment for exploring backend architecture, database design, Entity Framework Core, and long-term maintainability within a real application codebase.
+A full-stack task management application built with ASP.NET Core 9 Web API (Clean Architecture) and React 19 frontend. Created as a practical sandbox for testing backend architecture, data modeling, and design patterns in real code — evolved into a complete full-stack application with authentication, CRUD operations, Kanban board, analytics, and more.
 
 #### Highlights
 
-* Layered architecture implementation
-* Domain-driven entity modeling
-* Manually designed PostgreSQL schema
-* Entity Framework Core with Fluent API
-* Repository and Service Layer patterns
-* RESTful API development
-* Dependency Injection
-* Separation of business logic and infrastructure concerns
+* Designed and implemented a full-stack task management platform using Clean Architecture and Domain-Driven Design.
+* Built secure JWT authentication, role-based authorization, REST APIs, validation, structured logging, caching, and rate limiting.
+* Optimized database access patterns, EF Core queries, and PostgreSQL schema design for scalable application performance. 
+* Developed a React + TypeScript frontend with Kanban board, analytics dashboard, markdown support, and responsive UI.
+* Implemented 75+ unit tests using xUnit and Moq.
 
 #### Stack
 
-ASP.NET Core • C# • PostgreSQL • Entity Framework Core • Fluent API • REST API • Clean Architecture
+ASP.NET Core, .NET, PostgreSQL, Entity Framework Core, React, TypeScript
 
 ---
 
